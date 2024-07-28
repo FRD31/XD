@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url("https://fondosmil.com/fondo/21960.jpg"); /* Reemplaza "ruta_de_la_imagen.jpg" con la ruta de la imagen de Monster */
+    background-size: cover;
+    background-position: center;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8); /* Añade un fondo semi-transparente para mejorar la legibilidad */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Resto del código CSS del formulario... */

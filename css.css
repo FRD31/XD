@@ -1,0 +1,22 @@
+h1 {
+  color: #3BFF00;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #3BFF00;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+a:hover {
+  color: #FFD700; /* Cambia el color al pasar el cursor sobre el enlace */
+  text-decoration: underline; /* Agrega un subrayado al pasar el cursor sobre el enlace */
+}
+td {
+  padding: 8px;
+}
+table img {
+  border: 1px solid #ddd;
+}

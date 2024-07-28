@@ -1,0 +1,21 @@
+.intro {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #FFA500; /* Cambia el color de fondo a naranja */
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 30px;
+    color: #FFFFFF; /* Cambia el color de letra a blanco */
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: #FFFFFF; /* Cambia el color de letra a blanco */
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
